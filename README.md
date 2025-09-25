@@ -13,3 +13,6 @@ Gelecek çalışmamda, Türkiye'nin tarımsal ihtiyaçlarına özel bir veri set
 Bu proje kapsamında çiftçilerle işbirliği yaparak gerçek tarla koşullarında fotoğraflar çekeceğim. Tarım Bakanlığı'nın yayınladığı hastalık rehberlerinden faydalanarak etiketleme yapmayı düşünüyorum. Ayrıca mevsimsel değişiklikleri de dikkate alarak, aynı hastalığın farklı gelişim evrelerini kaydetmek istiyorum.
 
 Amacım, Türk çiftçisinin gerçek ihtiyaçlarına yönelik daha doğru teşhisler yapabilen bir model geliştirmek. Bu sayede yerel tarım ekonomisine katkı sağlayabileceğimize inanıyorum. Veri setini oluşturduktan sonra açık kaynak olarak paylaşmayı da planlıyorum ki diğer araştırmacılar da faydalanabilsin.
+
+# Linkler
+https://www.kaggle.com/code/seymaonerli/bitkihastaliklarinitanima-ipynb/edit/run/264039474
